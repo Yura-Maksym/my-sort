@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name='my-sort-Yura-Maksym',  # Назва на PyPI (pip install my-sort)
-    version='0.1.1', # Початкова версія
+    version='0.1.2', # Початкова версія
     author='Yura-Maksym', # Вкажіть ваше ім'я
     author_email='your_email@example.com', # Вкажіть ваш email
 
