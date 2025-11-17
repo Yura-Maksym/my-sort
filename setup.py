@@ -5,8 +5,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setup(
-    name='my-sort',  # Назва на PyPI (pip install my-sort)
-    version='0.1.0', # Початкова версія
+    name='my-sort-Yura-Maksym',  # Назва на PyPI (pip install my-sort)
+    version='0.1.1', # Початкова версія
     author='Yura-Maksym', # Вкажіть ваше ім'я
     author_email='your_email@example.com', # Вкажіть ваш email
 
